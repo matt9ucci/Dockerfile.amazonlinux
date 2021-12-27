@@ -7,6 +7,7 @@ RUN set -x \
 	bash-completion \
 	git \
 	gzip \
+	jq \
 	shadow-utils \
 	sudo \
 	tar \

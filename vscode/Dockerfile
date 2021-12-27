@@ -6,6 +6,7 @@ RUN set -x \
  && yum install -q -y --obsoletes \
 	bash-completion \
 	gzip \
+	jq \
 	shadow-utils \
 	sudo \
 	tar \
